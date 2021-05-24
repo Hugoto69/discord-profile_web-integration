@@ -1,5 +1,6 @@
 # Profile
 *Self hosted VueJS based Discord like web-profile*
+<br>
 **Forked from IchiiDev/profile**
 
 ## How do I use it ?
