@@ -1,5 +1,6 @@
 # Profile
 *Self hosted VueJS based Discord like web-profile*
+**Forked from IchiiDev/profile**
 
 ## How do I use it ?
 You'll only need a webserver like Apache or NGINX and to follow theses few steps:
