@@ -12,7 +12,7 @@ const config = {
     PROJECTS: [
         { id: "project-1", image: "assets/img/BassBoosted.png", link: "https://discord.com", name: "Bass Boosted Discord Community" },
         { id: "project-2", image: "assets/img/BlueTechInc.png", link: "https://discord.gg/bnuC8yzFqN", name: "BlueTechnician Incorporated" },
-        { id: "project-3", image: "assets/img/ISK.png", link: "https://discord.com", name: "I.S.K. Incorporated" },
+        { id: "project-3", image: "assets/img/ISK.png", link: "https://discord.gg/Vj5BHQzSTk", name: "I.S.K. Incorporated" },
         { id: "project-4", image: "assets/img/NexusTechInc.png", link: "https://discord.gg/9st2j6xg", name: "Nexus Technologies Incorporated"},
     ],
 
