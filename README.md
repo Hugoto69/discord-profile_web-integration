@@ -10,9 +10,9 @@ You'll only need a webserver like Apache or NGINX and to follow theses few steps
 
 Simply type the following commands:
 ```bash
-$ git clone https://github.com/IchiiDev/profile.git profile
+$ git clone https://github.com/Hugoto69/discord-profile_web-integration.git discord-profile_web-integration
 
-$ cd profile
+$ cd discord-profile_web-integration
 ```
 
 2. Add assets to the `assets\img` folder
